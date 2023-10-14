@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  rev.cpp
+     Creating library C:\Users\user\source\repos\ThemeBleed\Release\ThemeBleed.lib and object C:\Users\user\source\repos\ThemeBleed\Release\ThemeBleed.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ThemeBleed.vcxproj -> C:\Users\user\source\repos\ThemeBleed\Release\ThemeBleed.dll
